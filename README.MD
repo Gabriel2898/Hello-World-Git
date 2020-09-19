@@ -23,4 +23,6 @@ formato  **bold o strong**
 
 [link en markdown ](http://www.gmail.com)
 
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
 SOY UN README.
