@@ -25,4 +25,8 @@ formato  **bold o strong**
 
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
+
+```C#
+console.writeline
+```
 SOY UN README.
