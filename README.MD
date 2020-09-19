@@ -21,4 +21,6 @@ Underline 2
 -letra _italica_ de la segunda forma.
 formato  **bold o strong**
 
+[link en markdown ](http://www.gmail.com)
+
 SOY UN README.
