@@ -34,4 +34,7 @@ console.writeline
 | GACC | Cadena | 54654 |
 >esto es una cita 
 
+texto dividido 
+
+---
 SOY UN README.
